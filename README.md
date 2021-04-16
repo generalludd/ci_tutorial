@@ -11,7 +11,7 @@ database = ci
 username = ci
 password = ci
 
-All other variables should be stay the same for the mysqli db driver
+All other variables should stay the same for the mysqli db driver
 
 Make sure you stop all other docker containers before starting this one up. 
 To stop docker containers
